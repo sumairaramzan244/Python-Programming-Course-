@@ -1,10 +1,11 @@
 # 🐍 Python Programming Course
+### 🏛️ CM Punjab Free IT Initiative
 
 > Documenting my complete Python learning journey — every lecture, every line of code, pushed here publicly.
-
+> 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat&logo=python)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat)
-![Course](https://img.shields.io/badge/Course-CM%20Punjab-green?style=flat)
+![Name](https://img.shields.io/badge/Python%20Programming%20Course-CM%20Punjab%20Free%20IT%20Initiative-green?style=flat)
 
 ---
 
@@ -79,7 +80,7 @@ If you are also learning — let's connect and grow together!
 
 ## 👋 Want to Learn Python Too?
 
-If you want to start your Python journey, **you can follow this repository!**
+If you want to start your Python journey, **you can follow this repository!**  
 Every lecture is documented with simple notes and practical code — perfect for absolute beginners.
 
 🔔 **Star this repo** to stay updated as new lectures are added.
@@ -89,9 +90,11 @@ Every lecture is documented with simple notes and practical code — perfect for
 *🚀 One lecture a day, one commit a day — consistency is everything!*
 
 ---
+
 ## 📜 Ownership
 
 This repository is solely created and maintained by **Sumaira Ramzan**.  
-All notes and code here represent my personal learning journey.  
+All notes and code here represent my personal learning journey  
+as part of the **CM Punjab Free IT Initiative**.  
 
-
+© 2025 Sumaira Ramzan — All Rights Reserved
