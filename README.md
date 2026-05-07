@@ -37,7 +37,7 @@ Python is one of the **most in-demand languages in 2025 and in future** — here
 
 ---
 
-## 📖 Lecture 1 — Environment Setup
+## 📖 Introduction to Python & Environment Setup
 
 ### 1️⃣ Install Python
 1. Go to 👉 [python.org/downloads](https://python.org/downloads)
